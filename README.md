@@ -1,2 +1,2 @@
 Moje reposytorium
-Dziś jest 1.10.2018
+Dziś jest 01.10.2018
